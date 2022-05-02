@@ -7,8 +7,11 @@ Bombabomba.com one of our customers decided to test this feature. They want to r
 # Variables
 
 Impression: Ad views.
+
 Clicks: Indicates the number of clicks on the displayed ad.
+
 Purchases: Indicates the number of products purchased after the ads clicked.
+
 Earning: Earnings after purchased products.
 
 # Project Tasks
