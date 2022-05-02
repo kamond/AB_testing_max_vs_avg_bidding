@@ -60,7 +60,7 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 
 # The test result is p value = 0.0000, so HO is REJECTED. That is, there is a significant difference between the means of the groups.
 
-################TASK 3######################
+################ TASK 3 ######################
 
 # Firstly, I used Shapiro and Levene tests to check assumptions.
 # I used a two-sample parametric t-test since both assumptions were met.
