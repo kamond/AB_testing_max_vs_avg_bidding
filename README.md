@@ -5,10 +5,11 @@ Facebook has recently introduced a new bidding feature called average bidding al
 Bombabomba.com one of our customers decided to test this feature. They want to run an A/B test to understant which one would convert more and bring more profits.
 
 # Variables
-Impression: Ad views
+
+Impression: Ad views.
 Clicks: Indicates the number of clicks on the displayed ad.
 Purchases: Indicates the number of products purchased after the ads clicked.
-Earning: Earnings after purchased products
+Earning: Earnings after purchased products.
 
 # Project Tasks
 
