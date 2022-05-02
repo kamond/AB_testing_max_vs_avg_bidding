@@ -13,7 +13,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.float_format', lambda x: '%.5f' % x)
 
-# It will be checked which one brings more profit.
+# It will be checked for which one brings more profit.
 # Control group new feature, test group old feature
 control_group = pd.read_excel("facebook_ads_test_and_control.xlsx", sheet_name = "Control Group")
 test_group = pd.read_excel("facebook_ads_test_and_control.xlsx", sheet_name = "Test Group")
