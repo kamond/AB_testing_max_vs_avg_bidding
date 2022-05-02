@@ -10,10 +10,12 @@ Clicks: Indicates the number of clicks on the displayed ad.
 Purchases: Indicates the number of products purchased after the ads clicked.
 Earning: Earnings after purchased products
 
-# Task1: Define the hypothesis of the A/B test.
+# Project Tasks
 
-# Task2: Comment on whether the test results are statistically significant.
+Task1: Define the hypothesis of the A/B test.
 
-# Task3: Which tests did you use? State your reasons.
+Task2: Comment on whether the test results are statistically significant.
 
-# Task4: Based on your answer in Task 2, what is your advice?
+Task3: Which tests did you use? State your reasons.
+
+Task4: Based on your answer in Task 2, what is your advice?
